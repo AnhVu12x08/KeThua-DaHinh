@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\KeThua-DaHinh\KeThua-DaHinh\obj\Debug\net6.0\KeThua-DaHinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\KeThua-DaHinh\KeThua-DaHinh\obj\Debug\net6.0\KeThua-DaHinh.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\KeThua-DaHinh\KeThua-DaHinh\obj\Debug\net6.0\KeThua-DaHinh.AssemblyInfo.cs
+C:\Users\admin\source\repos\KeThua-DaHinh\KeThua-DaHinh\obj\Debug\net6.0\KeThua-DaHinh.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\KeThua-DaHinh\KeThua-DaHinh\bin\Debug\net6.0\KeThua-DaHinh.exe
+C:\Users\admin\source\repos\KeThua-DaHinh\KeThua-DaHinh\bin\Debug\net6.0\KeThua-DaHinh.deps.json
+C:\Users\admin\source\repos\KeThua-DaHinh\KeThua-DaHinh\bin\Debug\net6.0\KeThua-DaHinh.runtimeconfig.json
+C:\Users\admin\source\repos\KeThua-DaHinh\KeThua-DaHinh\bin\Debug\net6.0\KeThua-DaHinh.dll
+C:\Users\admin\source\repos\KeThua-DaHinh\KeThua-DaHinh\bin\Debug\net6.0\KeThua-DaHinh.pdb
+C:\Users\admin\source\repos\KeThua-DaHinh\KeThua-DaHinh\obj\Debug\net6.0\KeThua-DaHinh.dll
+C:\Users\admin\source\repos\KeThua-DaHinh\KeThua-DaHinh\obj\Debug\net6.0\refint\KeThua-DaHinh.dll
+C:\Users\admin\source\repos\KeThua-DaHinh\KeThua-DaHinh\obj\Debug\net6.0\KeThua-DaHinh.pdb
+C:\Users\admin\source\repos\KeThua-DaHinh\KeThua-DaHinh\obj\Debug\net6.0\KeThua-DaHinh.genruntimeconfig.cache
+C:\Users\admin\source\repos\KeThua-DaHinh\KeThua-DaHinh\obj\Debug\net6.0\ref\KeThua-DaHinh.dll
